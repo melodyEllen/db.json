@@ -1,2 +1,50 @@
-{
-}
+[
+    {
+        "_id": "657317b9b0654041ae8c933d",
+        "name": "Ruben Albertassi",
+        "company": "Enacom",
+        "cnpjCpf": "31232747000107",
+        "email": "albertassi88@gmail.com",
+        "status": "testando",
+        "dateRegister": "2023-12-08T13:18:48.829Z",
+        "__v": 30,
+        "clients": [
+            {
+                "name": "Ruben",
+                "company": "88 FM",
+                "cnpjCpf": "31232747488787",
+                "email": "ruben.albertassi@gmail.com",
+                "_id": "6575ead2eea8417776c14d03",
+                "upload": [
+                    {
+                        "vencimento": "15/12/2023",
+                        "path": "./upload/ALFA REABILITAÇÃO 15-12-2023.pdf",
+                        "status": true,
+                        "statusVarios": true,
+                        "statusAmanha": false,
+                        "statusHoje": false,
+                        "_id": "6575ead2eea8417776c14d04"
+                    },
+                    {
+                        "vencimento": "15/10/2023",
+                        "path": "./upload/boleto.pdf",
+                        "status": false,
+                        "statusVarios": false,
+                        "statusAmanha": false,
+                        "statusHoje": false,
+                        "_id": "6575ead2eea8417776c14d05"
+                    },
+                    {
+                        "vencimento": "21/10/2023",
+                        "path": "./upload/zamix.pdf",
+                        "status": false,
+                        "statusVarios": false,
+                        "statusAmanha": false,
+                        "statusHoje": false,
+                        "_id": "6575ead2eea8417776c14d06"
+                    }
+                ]
+            }
+        ]
+    }
+]
